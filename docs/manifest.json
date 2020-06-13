@@ -1,0 +1,75 @@
+{
+  "author": "r37r0m0d3l",
+  "background_color": "#ffffff",
+  "default_locale": "en",
+  "description": "Deno Releases",
+  "display": "standalone",
+  "homepage_url": "https://github.com/r37r0m0d3l/deno-releases",
+  "icons": [
+    {
+      "density": "0.75",
+      "sizes": "36x36",
+      "src": "/icons/android-icon-36x36.png",
+      "type": "image/png"
+    },
+    {
+      "density": "1.0",
+      "sizes": "48x48",
+      "src": "/icons/android-icon-48x48.png",
+      "type": "image/png"
+    },
+    {
+      "density": "1.5",
+      "sizes": "72x72",
+      "src": "/icons/android-icon-72x72.png",
+      "type": "image/png"
+    },
+    {
+      "density": "2.0",
+      "sizes": "96x96",
+      "src": "/icons/android-icon-96x96.png",
+      "type": "image/png"
+    },
+    {
+      "density": "3.0",
+      "sizes": "144x144",
+      "src": "/icons/android-icon-144x144.png",
+      "type": "image/png"
+    },
+    {
+      "density": "4.0",
+      "sizes": "192x192",
+      "src": "/icons/android-icon-192x192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "/icons/favicon-512x512.png",
+      "type": "image/png"
+    }
+  ],
+  "manifest_version": 2,
+  "name": "Deno Releases",
+  "offline_enabled": true,
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Deno Releases",
+  "shortcuts": [
+    {
+      "description": "Deno v1.1.0",
+      "icons": [
+        {
+          "sizes": "192x192",
+          "src": "/icons/android-icon-192x192.png"
+        }
+      ],
+      "name": "Deno v1.1.0",
+      "short_name": "Deno v1.1.0",
+      "url": "/#/1.x.x/1.1.0?source=pwa"
+    }
+  ],
+  "start_url": "./",
+  "theme_color": "#33cc99",
+  "version": "1.1.0"
+}
