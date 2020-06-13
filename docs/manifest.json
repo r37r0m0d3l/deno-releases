@@ -65,7 +65,7 @@
       ],
       "name": "Deno v1.1.0",
       "short_name": "Deno v1.1.0",
-      "url": "https://r37r0m0d3l.github.io/deno-releases/#/1.x.x/1.1.0?source=pwa"
+      "url": "#/1.x.x/1.1.0?source=pwa"
     }
   ],
   "scope": "/",
