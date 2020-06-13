@@ -30,6 +30,7 @@
   <meta name="msapplication-TileImage" content="https://r37r0m0d3l.github.io/deno-releases/icons/ms-icon-144x144.png" />
   <meta name="theme-color" content="#33cc99" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <style>
     @import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,500,700&display=swap&subset=cyrillic,cyrillic-ext,latin-ext');
     :root {
@@ -75,9 +76,22 @@
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js" data-ga="UA-169314433-1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'f0d86ea69221593e7e4b',
+      clientSecret: '11a2ef919dc67e7e98f55e144db3d97ca7c6b455',
+      repo: 'https://github.com/r37r0m0d3l/deno-releases',
+      owner: 'r37r0m0d3l',
+      admin: ['r37r0m0d3l'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
   <script>
     if (typeof navigator.serviceWorker !== "undefined") {
-      navigator.serviceWorker.register("https://github.com/r37r0m0d3l/deno-releases/sw.js");
+      navigator.serviceWorker.register("sw.js");
     }
   </script>
 </body>
