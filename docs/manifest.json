@@ -68,6 +68,7 @@
       "url": "https://r37r0m0d3l.github.io/deno-releases/#/1.x.x/1.1.0?source=pwa"
     }
   ],
+  "scope": "/",
   "start_url": "https://r37r0m0d3l.github.io/deno-releases",
   "theme_color": "#33cc99",
   "version": "1.1.0"
