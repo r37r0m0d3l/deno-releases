@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://r37r0m0d3l.github.io/deno-releases/</id>
+    <title>Deno Releases</title>
+    <updated>2020-07-13T21:00:00.000Z</updated>
+    <generator>r37r0m0d3l Awesome RSS Generator</generator>
+    <author>
+        <name>Anton Trofimenko</name>
+        <email>r37r0m0d3l@protonmail.com</email>
+        <uri>https://r37r0m0d3l.icu/</uri>
+    </author>
+    <link rel="alternate" href="https://r37r0m0d3l.github.io/deno-releases/"/>
+    <link rel="self" href="https://r37r0m0d3l.github.io/deno-releases/feed.atom"/>
+    <subtitle>Deno Releases watchlist</subtitle>
+    <logo>https://r37r0m0d3l.github.io/deno-releases/icons/android-icon-192x192.png</logo>
+    <icon>https://r37r0m0d3l.github.io/deno-releases/icons/favicon.ico</icon>
+    <rights>All rights reserved 2020, Anton Trofimenko</rights>
+    <category term="Technologies"/>
+    <contributor>
+        <name>Anton Trofimenko</name>
+        <email>r37r0m0d3l@protonmail.com</email>
+        <uri>https://r37r0m0d3l.icu/</uri>
+    </contributor>
+    <entry>
+        <title type="html"><![CDATA[Deno v1.1.0]]></title>
+        <id>202006141200</id>
+        <link/>
+        <updated>2020-06-14T11:27:10.190Z</updated>
+        <summary type="html"><![CDATA[Deno v1.1.0 released with "deno lint" and other new features]]></summary>
+        <content type="html"><![CDATA[Deno v1.1.0 released with "deno lint" and other new features]]></content>
+        <author>
+            <name>Anton Trofimenko</name>
+            <email>r37r0m0d3l@protonmail.com</email>
+            <uri>https://r37r0m0d3l.icu/</uri>
+        </author>
+        <contributor>
+            <name>Anton Trofimenko</name>
+            <email>r37r0m0d3l@protonmail.com</email>
+            <uri>https://r37r0m0d3l.icu/</uri>
+        </contributor>
+    </entry>
+</feed>

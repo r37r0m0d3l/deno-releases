@@ -1,0 +1,26 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Deno Releases",
+  "home_page_url": "https://r37r0m0d3l.github.io/deno-releases/",
+  "feed_url": "https://r37r0m0d3l.github.io/deno-releases/feed.json",
+  "description": "Deno Releases watchlist",
+  "icon": "https://r37r0m0d3l.github.io/deno-releases/icons/android-icon-192x192.png",
+  "author": {
+    "name": "Anton Trofimenko",
+    "url": "https://r37r0m0d3l.icu/"
+  },
+  "items": [
+    {
+      "id": "202006141200",
+      "content_html": "Deno v1.1.0 released with \"deno lint\" and other new features",
+      "title": "Deno v1.1.0",
+      "summary": "Deno v1.1.0 released with \"deno lint\" and other new features",
+      "image": "https://r37r0m0d3l.github.io/deno-releases/icons/android-icon-192x192.png",
+      "date_modified": "2020-06-14T11:27:10.190Z",
+      "author": {
+        "name": "Anton Trofimenko",
+        "url": "https://r37r0m0d3l.icu/"
+      }
+    }
+  ]
+}

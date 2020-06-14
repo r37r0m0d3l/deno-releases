@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Deno Releases</title>
+        <link>https://r37r0m0d3l.github.io/deno-releases/</link>
+        <description>Deno Releases watchlist</description>
+        <lastBuildDate>Mon, 13 Jul 2020 21:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>r37r0m0d3l Awesome RSS Generator</generator>
+        <language>en</language>
+        <image>
+            <title>Deno Releases</title>
+            <url>https://r37r0m0d3l.github.io/deno-releases/icons/android-icon-192x192.png</url>
+            <link>https://r37r0m0d3l.github.io/deno-releases/</link>
+        </image>
+        <copyright>All rights reserved 2020, Anton Trofimenko</copyright>
+        <category>Technologies</category>
+        <atom:link href="https://r37r0m0d3l.github.io/deno-releases/feed.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deno v1.1.0]]></title>
+            <guid>202006141200</guid>
+            <pubDate>Sun, 14 Jun 2020 11:27:10 GMT</pubDate>
+            <description><![CDATA[Deno v1.1.0 released with "deno lint" and other new features]]></description>
+            <content:encoded><![CDATA[Deno v1.1.0 released with "deno lint" and other new features]]></content:encoded>
+            <author>r37r0m0d3l@protonmail.com (Anton Trofimenko)</author>
+            <enclosure url="https://r37r0m0d3l.github.io/deno-releases/icons/android-icon-192x192.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

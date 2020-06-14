@@ -29,6 +29,25 @@
   <meta name="msapplication-TileColor" content="#33cc99" />
   <meta name="msapplication-TileImage" content="https://r37r0m0d3l.github.io/deno-releases/icons/ms-icon-144x144.png" />
   <meta name="theme-color" content="#33cc99" />
+
+  <link
+    href="https://r37r0m0d3l.github.io/deno-releases/feed/feed.rss"
+    rel="alternate"
+    title="RSS"
+    type="application/rss+xml"
+  />
+  <link
+    href="https://r37r0m0d3l.github.io/deno-releases/feed/feed.atom"
+    rel="alternate"
+    title="Atom"
+    type="application/atom+xml"
+  />
+  <link
+    href="https://r37r0m0d3l.github.io/deno-releases/feed/feed.json"
+    rel="alternate"
+    title="JSON"
+    type="application/json"
+  />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <style>
@@ -81,7 +100,15 @@
       loadSidebar: true,
       logo: "_media/logo.svg",
       ga: "UA-169314433-1",
-      disqus: 'deno-releases'
+      disqus: 'deno-releases',
+      share: {
+        reddit: true,
+        linkedin: true,
+        facebook: true,
+        twitter: true,
+        whatsapp: true,
+        telegram: true,
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js" data-ga="UA-169314433-1"></script>
@@ -89,6 +116,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: 'f0d86ea69221593e7e4b',
