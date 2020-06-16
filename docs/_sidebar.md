@@ -9,3 +9,7 @@
 # — Posts
 
 - [Posts](/posts.md)
+
+# — IDE
+
+- [IDE](/ide.md)
