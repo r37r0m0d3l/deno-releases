@@ -18,19 +18,19 @@ const me = {
 const feed = new Feed({
     title: "Deno Releases",
     description: "Deno Releases watchlist",
-    id: "https://r37r0m0d3l.github.io/deno-releases/",
-    link: "https://r37r0m0d3l.github.io/deno-releases/",
+    id: "https://deno-info.site/",
+    link: "https://deno-info.site/",
     language: "en",
     image:
-        "https://r37r0m0d3l.github.io/deno-releases/icons/android-icon-192x192.png",
-    favicon: "https://r37r0m0d3l.github.io/deno-releases/icons/favicon.ico",
+        "https://deno-info.site/icons/android-icon-192x192.png",
+    favicon: "https://deno-info.site/icons/favicon.ico",
     copyright: "All rights reserved 2020, Anton Trofimenko",
     updated: new Date(2020, 6, 14),
     generator: "r37r0m0d3l Awesome RSS Generator",
     feedLinks: {
-        atom: "https://r37r0m0d3l.github.io/deno-releases/feed.atom",
-        json: "https://r37r0m0d3l.github.io/deno-releases/feed.json",
-        rss: "https://r37r0m0d3l.github.io/deno-releases/feed.rss",
+        atom: "https://deno-info.site/feed.atom",
+        json: "https://deno-info.site/feed.json",
+        rss: "https://deno-info.site/feed.rss",
     },
     author: me,
 });

@@ -2,7 +2,7 @@
   {
     "title": "Deno v1.1.0",
     "id": "202006141200",
-    "link": "https://r37r0m0d3l.github.io/deno-releases/#/1.x.x/1.1.0",
+    "link": "https://deno-info.site/#/1.x.x/1.1.0",
     "description": "Deno v1.1.0 released with \"deno lint\" and other new features",
     "content": "Deno v1.1.0 released with \"deno lint\" and other new features",
     "author": [
@@ -20,6 +20,6 @@
       }
     ],
     "date": "2020-06-14T14:15:25.607+03:00",
-    "image": "https://r37r0m0d3l.github.io/deno-releases/icons/android-icon-192x192.png"
+    "image": "https://deno-info.site/icons/android-icon-192x192.png"
   }
 ]
